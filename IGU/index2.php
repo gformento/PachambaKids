@@ -180,8 +180,6 @@ if(isset($_SESSION['carrito'])){
         <footer class="footer footer-new"> 
        <footer> Pagina Realizada Por Formento Gonzalo©</footer>
        <footer> Copyright Reserved By PachambaKids©</footer> 
-       </div>
-        
-
+       </div>        
 </body>
 </html>
