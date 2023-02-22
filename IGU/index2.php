@@ -181,5 +181,6 @@ if(isset($_SESSION['carrito'])){
        <footer> Pagina Realizada Por Formento Gonzalo©</footer>
        <footer> Copyright Reserved By PachambaKids©</footer> 
        </div>        
+       
 </body>
 </html>
